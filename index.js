@@ -81,4 +81,4 @@ const MealBtn=(Mealdata)=>{
 }
 
 
-logDataFish('rice');
+logDataFish('fish');
